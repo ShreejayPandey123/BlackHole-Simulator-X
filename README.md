@@ -1,4 +1,4 @@
-# 🌌 Black Hole Simulator X
+<img width="918" height="654" alt="image" src="https://github.com/user-attachments/assets/5b2c7263-7292-4292-985f-f049df65e34a" /># 🌌 Black Hole Simulator X
 
 A real-time Black Hole Simulator developed using **Python**, **Panda3D**, and **GLSL shaders**.
 
@@ -89,7 +89,7 @@ python main.py
 
 ## 📸 Preview
 
-> *(Add screenshots or GIFs of your simulator here.)*
+<img width="1260" height="714" alt="Output" src="https://github.com/user-attachments/assets/3fa81c28-5aad-4190-afe2-ecc5892e2409" />
 
 ---
 
